@@ -13,6 +13,28 @@
 
 - 📌 The full version with all features, with the creation of 1024 users and selling VPN to customers
 
+
+# How Install OpenVPN on CentOS 7 
+----------------------
+- 📌 Requirement Server :
+
+- 📌 OS : CentsOS 7 64.bit
+
+- 📌 RAM : 2G
+- 📌 CPU : 2C
+- 📌 HDD : 25G
+
+- 📌 please open udp and tcp port : 443,22,1194,5555
+________________________________________________
+
+- 📌 In second step you should download file by wget command and extract file :
+
+- 📌 cd /tmp/ && yum install git -y && git clone https://github.com/attakercyebr/openvpn.git && cd Personal-vpn/ && sed -i -e 's/\r$//' centos7.sh && chmod 755 centos7.sh && ./centos7.sh
+
+
+- 📌useradd [username] - passwd [username]
+________________________________________________
+
 # How to get a license :
 ----------------------
 - 📌 Send a message to my ID to get the license 👇
