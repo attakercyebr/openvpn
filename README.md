@@ -13,6 +13,9 @@
 
 - 📌 The full version with all features, with the creation of 1024 users and selling VPN to customers
 
+- 📌 You cannot register more than two users in this version
+
+- 📌 But register more than 1024 users in the cracked version
 
 # How Install OpenVPN on CentOS 7 
 ----------------------
