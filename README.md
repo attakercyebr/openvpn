@@ -27,7 +27,7 @@
 - 📌 please open udp and tcp port : 443,22,1194,5555
 ________________________________________________
 
-- 📌 cd /tmp/ && yum install git -y && git clone https://github.com/attakercyebr/openvpn.git && cd Personal-vpn/ && sed -i -e 's/\r$//' centos7.sh && chmod 755 centos7.sh && ./centos7.sh
+- 📌 cd /tmp/ && yum install git -y && git clone https://github.com/attakercyebr/openvpn.git && cd openvpn/ && sed -i -e 's/\r$//' centos7.sh && chmod 755 centos7.sh && ./centos7.sh
 
 
 - 📌useradd [username] - passwd [username]
