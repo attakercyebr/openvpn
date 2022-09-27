@@ -1,4 +1,4 @@
-# ![Locations](https://github.com/attakercyebr/Vulnerability-Scanner-Auto-Exploiter/blob/main/Untitled.png) 
+# ![Locations](https://integrations.idemeum.com/content/images/2022/04/OpenVPN-logo.jpg) 
 
 
 # Script features:
