@@ -31,7 +31,7 @@
 ________________________________________________
 
 - 📌 Visit our channel to get the password
-
+- 📌  https://t.me/M4nifest0_Video_Archive/157
 ________________________________________________
 
 # How to get a license :
